@@ -1,4 +1,4 @@
-﻿id,district_code,district_name,constituency_code, constituency_name,subcounty_code,subcounty_name,parish_code,parish_name,polling_station_code,polling_station_name,total_voters,female_voters,male_voters
+﻿id,district_code,district_name,constituency_code,constituency_name,subcounty_code,subcounty_name,parish_code,parish_name,polling_station_code,polling_station_name,total_voters,female_voters,male_voters
 1,01,APAC,002,KWANIA COUNTY,01,ADUKU,01,ADYEDA,01,ADYEDA CENTRE,277,134,143
 2,01,APAC,002,KWANIA COUNTY,01,ADUKU,01,ADYEDA,02,APORWEGI P.7 SCHOOL,702,379,323
 3,01,APAC,002,KWANIA COUNTY,01,ADUKU,01,ADYEDA,03,ADYEDA IMALO,321,164,157
