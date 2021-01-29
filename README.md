@@ -6,7 +6,6 @@ This is a collection of data resources for Uganda Elections
    - [Excel](voter_register_summary_2016.xls)
    - [CSV](voter_register_summary_2016.csv)
    - [JSON](voter_register_summary_2016.json)
-
 2. 2020 Elections Polling Station Data 
    - [Excel](voter_register_summary_2020.xls)
    - [CSV](voter_register_summary_2020.csv)
@@ -23,6 +22,10 @@ This is a collection of data resources for Uganda Elections
    - [Excel](constituency_lookup/uganda_constituencies_2020.xlsx)
    - [CSV](constituency_lookup/uganda_constituencies_2020.csv)
    - [JSON](constituency_lookup/uganda_constituencies_2020.json)
+6. 2020 Elections Results 
+   - [Excel](results/2021/presidential_results.xls)
+   - [CSV](results/2021/presidential_results.csv)
+   - [JSON](results/2021/presidential_results.json)   
      
 NOTES:
 ========
