@@ -22,7 +22,7 @@ This is a collection of data resources for Uganda Elections
    - [Excel](constituency_lookup/uganda_constituencies_2020.xlsx)
    - [CSV](constituency_lookup/uganda_constituencies_2020.csv)
    - [JSON](constituency_lookup/uganda_constituencies_2020.json)
-6. 2020 Elections Results 
+6. 2021 Elections Results 
    - [Excel](results/2021/presidential_results.xls)
    - [CSV](results/2021/presidential_results.csv)
    - [JSON](results/2021/presidential_results.json)   
