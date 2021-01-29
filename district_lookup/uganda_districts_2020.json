@@ -1,586 +1,878 @@
 [
   {
     "district_code": 70,
-    "district_name": "ABIM"
+    "district_name": "ABIM",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 40,
-    "district_name": "ADJUMANI"
+    "district_name": "ADJUMANI",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 111,
-    "district_name": "AGAGO"
+    "district_name": "AGAGO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 88,
-    "district_name": "ALEBTONG"
+    "district_name": "ALEBTONG",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 57,
-    "district_name": "AMOLATAR"
+    "district_name": "AMOLATAR",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 81,
-    "district_name": "AMUDAT"
+    "district_name": "AMUDAT",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 58,
-    "district_name": "AMURIA"
+    "district_name": "AMURIA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 71,
-    "district_name": "AMURU"
+    "district_name": "AMURU",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 1,
-    "district_name": "APAC"
+    "district_name": "APAC",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 2,
-    "district_name": "ARUA"
+    "district_name": "ARUA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 136,
-    "district_name": "ARUA CITY"
+    "district_name": "ARUA CITY",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 72,
-    "district_name": "BUDAKA"
+    "district_name": "BUDAKA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 78,
-    "district_name": "BUDUDA"
+    "district_name": "BUDUDA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 41,
-    "district_name": "BUGIRI"
+    "district_name": "BUGIRI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 123,
-    "district_name": "BUGWERI"
+    "district_name": "BUGWERI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 109,
-    "district_name": "BUHWEJU"
+    "district_name": "BUHWEJU",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 82,
-    "district_name": "BUIKWE"
+    "district_name": "BUIKWE",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 79,
-    "district_name": "BUKEDEA"
+    "district_name": "BUKEDEA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 98,
-    "district_name": "BUKOMANSIMBI"
+    "district_name": "BUKOMANSIMBI",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 59,
-    "district_name": "BUKWO"
+    "district_name": "BUKWO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 89,
-    "district_name": "BULAMBULI"
+    "district_name": "BULAMBULI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 73,
-    "district_name": "BULIISA"
+    "district_name": "BULIISA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 3,
-    "district_name": "BUNDIBUGYO"
+    "district_name": "BUNDIBUGYO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 117,
-    "district_name": "BUNYANGABU"
+    "district_name": "BUNYANGABU",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 4,
-    "district_name": "BUSHENYI"
+    "district_name": "BUSHENYI",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 42,
-    "district_name": "BUSIA"
+    "district_name": "BUSIA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 60,
-    "district_name": "BUTALEJA"
+    "district_name": "BUTALEJA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 99,
-    "district_name": "BUTAMBALA"
+    "district_name": "BUTAMBALA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 118,
-    "district_name": "BUTEBO"
+    "district_name": "BUTEBO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 90,
-    "district_name": "BUVUMA"
+    "district_name": "BUVUMA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 83,
-    "district_name": "BUYENDE"
+    "district_name": "BUYENDE",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 74,
-    "district_name": "DOKOLO"
+    "district_name": "DOKOLO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 139,
-    "district_name": "FORT PORTAL CITY"
+    "district_name": "FORT PORTAL CITY",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 91,
-    "district_name": "GOMBA"
+    "district_name": "GOMBA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 5,
-    "district_name": "GULU"
+    "district_name": "GULU",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 137,
-    "district_name": "GULU CITY"
+    "district_name": "GULU CITY",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 6,
-    "district_name": "HOIMA"
+    "district_name": "HOIMA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 145,
-    "district_name": "HOIMA CITY"
+    "district_name": "HOIMA CITY",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 61,
-    "district_name": "IBANDA"
+    "district_name": "IBANDA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 7,
-    "district_name": "IGANGA"
+    "district_name": "IGANGA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 62,
-    "district_name": "ISINGIRO"
+    "district_name": "ISINGIRO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 8,
-    "district_name": "JINJA"
+    "district_name": "JINJA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 138,
-    "district_name": "JINJA CITY"
+    "district_name": "JINJA CITY",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 63,
-    "district_name": "KAABONG"
+    "district_name": "KAABONG",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 9,
-    "district_name": "KABALE"
+    "district_name": "KABALE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 10,
-    "district_name": "KABAROLE"
+    "district_name": "KABAROLE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 54,
-    "district_name": "KABERAMAIDO"
+    "district_name": "KABERAMAIDO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 113,
-    "district_name": "KAGADI"
+    "district_name": "KAGADI",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 114,
-    "district_name": "KAKUMIRO"
+    "district_name": "KAKUMIRO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 129,
-    "district_name": "KALAKI"
+    "district_name": "KALAKI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 11,
-    "district_name": "KALANGALA"
+    "district_name": "KALANGALA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 64,
-    "district_name": "KALIRO"
+    "district_name": "KALIRO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 100,
-    "district_name": "KALUNGU"
+    "district_name": "KALUNGU",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 12,
-    "district_name": "KAMPALA"
+    "district_name": "KAMPALA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 13,
-    "district_name": "KAMULI"
+    "district_name": "KAMULI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 46,
-    "district_name": "KAMWENGE"
+    "district_name": "KAMWENGE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 55,
-    "district_name": "KANUNGU"
+    "district_name": "KANUNGU",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 14,
-    "district_name": "KAPCHORWA"
+    "district_name": "KAPCHORWA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 124,
-    "district_name": "KAPELEBYONG"
+    "district_name": "KAPELEBYONG",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 130,
-    "district_name": "KARENGA"
+    "district_name": "KARENGA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 15,
-    "district_name": "KASESE"
+    "district_name": "KASESE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 125,
-    "district_name": "KASSANDA"
+    "district_name": "KASSANDA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 43,
-    "district_name": "KATAKWI"
+    "district_name": "KATAKWI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 47,
-    "district_name": "KAYUNGA"
+    "district_name": "KAYUNGA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 131,
-    "district_name": "KAZO"
+    "district_name": "KAZO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 16,
-    "district_name": "KIBAALE"
+    "district_name": "KIBAALE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 17,
-    "district_name": "KIBOGA"
+    "district_name": "KIBOGA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 102,
-    "district_name": "KIBUKU"
+    "district_name": "KIBUKU",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 126,
-    "district_name": "KIKUUBE"
+    "district_name": "KIKUUBE",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 65,
-    "district_name": "KIRUHURA"
+    "district_name": "KIRUHURA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 92,
-    "district_name": "KIRYANDONGO"
+    "district_name": "KIRYANDONGO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 18,
-    "district_name": "KISORO"
+    "district_name": "KISORO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 132,
-    "district_name": "KITAGWENDA"
+    "district_name": "KITAGWENDA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 19,
-    "district_name": "KITGUM"
+    "district_name": "KITGUM",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 66,
-    "district_name": "KOBOKO"
+    "district_name": "KOBOKO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 103,
-    "district_name": "KOLE"
+    "district_name": "KOLE",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 20,
-    "district_name": "KOTIDO"
+    "district_name": "KOTIDO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 21,
-    "district_name": "KUMI"
+    "district_name": "KUMI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 127,
-    "district_name": "KWANIA"
+    "district_name": "KWANIA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 104,
-    "district_name": "KWEEN"
+    "district_name": "KWEEN",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 93,
-    "district_name": "KYANKWANZI"
+    "district_name": "KYANKWANZI",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 84,
-    "district_name": "KYEGEGWA"
+    "district_name": "KYEGEGWA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 48,
-    "district_name": "KYENJOJO"
+    "district_name": "KYENJOJO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 119,
-    "district_name": "KYOTERA"
+    "district_name": "KYOTERA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 85,
-    "district_name": "LAMWO"
+    "district_name": "LAMWO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 22,
-    "district_name": "LIRA"
+    "district_name": "LIRA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 144,
-    "district_name": "LIRA CITY"
+    "district_name": "LIRA CITY",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 94,
-    "district_name": "LUUKA"
+    "district_name": "LUUKA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 23,
-    "district_name": "LUWEERO"
+    "district_name": "LUWEERO",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 105,
-    "district_name": "LWENGO"
+    "district_name": "LWENGO",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 80,
-    "district_name": "LYANTONDE"
+    "district_name": "LYANTONDE",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 133,
-    "district_name": "MADI-OKOLLO"
+    "district_name": "MADI-OKOLLO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 67,
-    "district_name": "MANAFWA"
+    "district_name": "MANAFWA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 77,
-    "district_name": "MARACHA"
+    "district_name": "MARACHA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 24,
-    "district_name": "MASAKA"
+    "district_name": "MASAKA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 141,
-    "district_name": "MASAKA CITY"
+    "district_name": "MASAKA CITY",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 25,
-    "district_name": "MASINDI"
+    "district_name": "MASINDI",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 49,
-    "district_name": "MAYUGE"
+    "district_name": "MAYUGE",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 26,
-    "district_name": "MBALE"
+    "district_name": "MBALE",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 142,
-    "district_name": "MBALE CITY"
+    "district_name": "MBALE CITY",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 27,
-    "district_name": "MBARARA"
+    "district_name": "MBARARA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 140,
-    "district_name": "MBARARA CITY"
+    "district_name": "MBARARA CITY",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 106,
-    "district_name": "MITOOMA"
+    "district_name": "MITOOMA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 68,
-    "district_name": "MITYANA"
+    "district_name": "MITYANA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 28,
-    "district_name": "MOROTO"
+    "district_name": "MOROTO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 29,
-    "district_name": "MOYO"
+    "district_name": "MOYO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 30,
-    "district_name": "MPIGI"
+    "district_name": "MPIGI",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 31,
-    "district_name": "MUBENDE"
+    "district_name": "MUBENDE",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 32,
-    "district_name": "MUKONO"
+    "district_name": "MUKONO",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 128,
-    "district_name": "NABILATUK"
+    "district_name": "NABILATUK",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 56,
-    "district_name": "NAKAPIRIPIRIT"
+    "district_name": "NAKAPIRIPIRIT",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 69,
-    "district_name": "NAKASEKE"
+    "district_name": "NAKASEKE",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 44,
-    "district_name": "NAKASONGOLA"
+    "district_name": "NAKASONGOLA",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 95,
-    "district_name": "NAMAYINGO"
+    "district_name": "NAMAYINGO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 120,
-    "district_name": "NAMISINDWA"
+    "district_name": "NAMISINDWA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 75,
-    "district_name": "NAMUTUMBA"
+    "district_name": "NAMUTUMBA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 107,
-    "district_name": "NAPAK"
+    "district_name": "NAPAK",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 33,
-    "district_name": "NEBBI"
+    "district_name": "NEBBI",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 108,
-    "district_name": "NGORA"
+    "district_name": "NGORA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 96,
-    "district_name": "NTOROKO"
+    "district_name": "NTOROKO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 34,
-    "district_name": "NTUNGAMO"
+    "district_name": "NTUNGAMO",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 110,
-    "district_name": "NWOYA"
+    "district_name": "NWOYA",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 134,
-    "district_name": "OBONGI"
+    "district_name": "OBONGI",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 115,
-    "district_name": "OMORO"
+    "district_name": "OMORO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 86,
-    "district_name": "OTUKE"
+    "district_name": "OTUKE",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 76,
-    "district_name": "OYAM"
+    "district_name": "OYAM",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 50,
-    "district_name": "PADER"
+    "district_name": "PADER",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 121,
-    "district_name": "PAKWACH"
+    "district_name": "PAKWACH",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 35,
-    "district_name": "PALLISA"
+    "district_name": "PALLISA",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 36,
-    "district_name": "RAKAI"
+    "district_name": "RAKAI",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 116,
-    "district_name": "RUBANDA"
+    "district_name": "RUBANDA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 112,
-    "district_name": "RUBIRIZI"
+    "district_name": "RUBIRIZI",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 122,
-    "district_name": "RUKIGA"
+    "district_name": "RUKIGA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 37,
-    "district_name": "RUKUNGIRI"
+    "district_name": "RUKUNGIRI",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 135,
-    "district_name": "RWAMPARA"
+    "district_name": "RWAMPARA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 97,
-    "district_name": "SERERE"
+    "district_name": "SERERE",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 101,
-    "district_name": "SHEEMA"
+    "district_name": "SHEEMA",
+    "region_code": 4,
+    "region_name": "WESTERN"
   },
   {
     "district_code": 51,
-    "district_name": "SIRONKO"
+    "district_name": "SIRONKO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 38,
-    "district_name": "SOROTI"
+    "district_name": "SOROTI",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 146,
-    "district_name": "SOROTI CITY"
+    "district_name": "SOROTI CITY",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 45,
-    "district_name": "SSEMBABULE"
+    "district_name": "SSEMBABULE",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 143,
-    "district_name": "TEREGO"
+    "district_name": "TEREGO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 39,
-    "district_name": "TORORO"
+    "district_name": "TORORO",
+    "region_code": 2,
+    "region_name": "EASTERN"
   },
   {
     "district_code": 52,
-    "district_name": "WAKISO"
+    "district_name": "WAKISO",
+    "region_code": 1,
+    "region_name": "CENTRAL"
   },
   {
     "district_code": 53,
-    "district_name": "YUMBE"
+    "district_name": "YUMBE",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   },
   {
     "district_code": 87,
-    "district_name": "ZOMBO"
+    "district_name": "ZOMBO",
+    "region_code": 3,
+    "region_name": "NORTHERN"
   }
 ]
