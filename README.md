@@ -22,11 +22,11 @@ This is a collection of data resources for Uganda Elections
    - [Excel](constituency_lookup/uganda_constituencies_2020.xlsx)
    - [CSV](constituency_lookup/uganda_constituencies_2020.csv)
    - [JSON](constituency_lookup/uganda_constituencies_2020.json)
-6. 2021 Elections Results 
+6. 2021 Elections Results - Presidential Results 
    - [Excel](results/2021/presidential_results.xls)
    - [CSV](results/2021/presidential_results.csv)
    - [JSON](results/2021/presidential_results.json)   
-7. 2021 Elections Results
+7. 2021 Elections Results - Nullified Polling Stations
    - [Excel](results/2021/nullified_polling_stations_2020.xls)
    - [CSV](results/2021/nullified_polling_stations_2020.csv)
    - [JSON](results/2021/nullified_polling_stations_2020.json)
