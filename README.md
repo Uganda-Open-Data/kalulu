@@ -26,6 +26,11 @@ This is a collection of data resources for Uganda Elections
    - [Excel](results/2021/presidential_results.xls)
    - [CSV](results/2021/presidential_results.csv)
    - [JSON](results/2021/presidential_results.json)   
+7. 2021 Elections Results
+   - [Excel](results/2021/nullified_polling_stations_2020.xls)
+   - [CSV](results/2021/nullified_polling_stations_2020.csv)
+   - [JSON](results/2021/nullified_polling_stations_2020.json)
+
      
 NOTES:
 ========
