@@ -2,38 +2,59 @@
 
 This is a collection of data resources for Uganda Elections 
 
-1. 2016 Elections Polling Station Data
-   - [Excel](voter_register_summary_2016.xls)
-   - [CSV](voter_register_summary_2016.csv)
-   - [JSON](voter_register_summary_2016.json)
-2. 2020 Elections Polling Station Data 
+## 2021 Elections
+
+1. 2020 Elections Polling Station Data 
    - [Excel](voter_register_summary_2020.xls)
    - [CSV](voter_register_summary_2020.csv)
    - [JSON](voter_register_summary_2020.json)
-3. District lookup files 
+2. District lookup files 
    - [Excel](district_lookup/uganda_districts_2020.xlsx)
    - [CSV](district_lookup/uganda_districts_2020.csv)
    - [JSON](district_lookup/uganda_districts_2020.json)
-4. Sub-county lookup files
+3. Sub-county lookup files
    - [Excel](subcounty_lookup/uganda_subcounties_2020.xlsx)
    - [CSV](subcounty_lookup/uganda_subcounties_2020.csv)
    - [JSON](subcounty_lookup/uganda_subcounties_2020.json)
-5. Constituency lookup files 
+4. Constituency lookup files 
    - [Excel](constituency_lookup/uganda_constituencies_2020.xlsx)
    - [CSV](constituency_lookup/uganda_constituencies_2020.csv)
    - [JSON](constituency_lookup/uganda_constituencies_2020.json)
-6. 2021 Elections Results - Presidential Results 
+5. 2021 Elections Results - Presidential Results 
    - [Excel](results/2021/presidential_results.xls)
    - [CSV](results/2021/presidential_results.csv)
    - [JSON](results/2021/presidential_results.json)   
-7. 2021 Elections Results - Nullified Polling Stations
+6. 2021 Elections Results - Nullified Polling Stations
    - [Excel](results/2021/nullified_polling_stations_2020.xls)
    - [CSV](results/2021/nullified_polling_stations_2020.csv)
    - [JSON](results/2021/nullified_polling_stations_2020.json)
 
-     
-NOTES:
-========
+## 2016 Elections 
+
+1. 2016 Elections Polling Station Data
+   - [Excel](voter_register_summary_2016.xls)
+   - [CSV](voter_register_summary_2016.csv)
+   - [JSON](voter_register_summary_2016.json)
+2. 2016 Presidential Election Results 
+   - [Excel](results/2016/presidential_results.xls)
+   - [CSV](results/2016/presidential_results.csv)
+   - [JSON](results/2016/presidential_results.json)
+
+## 2011 Elections 
+Coming soon
+
+## Attributions 
+This section contains attributions to assistance in finding, extract and analyse this data from different sources 
+and formats
+
+1. [AndsJeff](https://twitter.com/andsjeff) for converting the 2021 election results from PDF to Excel 
+2. [Herman Musitwa](https://twitter.com/muthitwa) for district, sub-county and constituency lookups for 2016 and 2020 election data
+3. [Samwyri](https://twitter.com/Samwyri) for the 2016 & 2020 polling station voter register summary data and [Blanshe Musinguzi](https://twitter.com/Johnblanshe_m) for finding the raw data 
+4. Lisa Garbe for the 2011 presidenital results
+5. [Horacio Larreguy](https://twitter.com/HLarreguy), [Anders Woller](https://twitter.com/AndersWoller) and [Jeremy Bowles](https://twitter.com/jeremy_bowles) for the
+analysis of the 2016 election data with the GPS coordinates for the 2016 elections 
+
+## NOTES
 1. The CSV file is used as the primary source of data with the JSON format being generated using the following commands 
 - `csvjson --snifflimit 0 voter_register_summary_2016.csv >  voter_register_summary_2016.json`
 - ` csvjson --snifflimit 0 voter_register_summary_2020.csv >  voter_register_summary_2020.json`
