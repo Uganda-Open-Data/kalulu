@@ -3,6 +3,7 @@
 This is a collection of data resources for Uganda Elections 
 ## 2026 Elections 
 1. Presidential campaign schedule 
+   - [Original data PDF](raw_data/2026/Presidential_Campaign_Programme_2025-2026.pdf)
    - [Excel](2026/presidential_campaign_programme_2025-2026.xls)
    - [CSV](2026/presidential_campaign_programme_2025-2026.csv)
    - [JSON](2026/presidential_campaign_programme_2025-2026.json) 
